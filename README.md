@@ -1,4 +1,4 @@
-# CS222: Algorithm Final Project
+# SJTU CS222: Algorithm Final Project
 
 ## Object Removal
 
