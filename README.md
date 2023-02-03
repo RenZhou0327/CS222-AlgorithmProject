@@ -11,7 +11,7 @@ Project/
     |--Super Precise Object Removal.pdf/ Our Final PPT
     |
     |--ObjectRemoval/ All codes
-    |	|--ExtracContour/ codes for extracting contours (cGAN)
+    |	|--ExtractContour/ codes for extracting contours (cGAN)
     |	|
     |	|--GenerateMask/ codes for generating masks (Heristic Search)
     |	|
